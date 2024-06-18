@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.authors      = { 'Umesh Dhuri' => 'umesh.dhuri25@gmail.com' }
   spec.summary      = 'A short description of WeatherApp.'
   spec.source       = { :git => 'https://github.com/umeshdhuri/WeatherApp.git', :tag => '0.0.1' }
-  spec.source_files = 'WeatherApp/**/*.swift'
+  spec.source_files = 'WeatherApp/WeatherApp/**/*.swift'
   spec.ios.deployment_target = '14.0'
   spec.requires_arc = true
   spec.swift_version = '5.7'
