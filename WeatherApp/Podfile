@@ -8,6 +8,6 @@ target 'WeatherApp' do
   # Pods for WeatherApp
 
 	pod 'RxSwift', '6.6.0'
-	#pod 'RxCocoa', '6.5.0'
+	pod 'RxCocoa', '6.6.0'
 
 end

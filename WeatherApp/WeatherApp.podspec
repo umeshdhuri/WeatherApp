@@ -12,4 +12,5 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.7'
   spec.ios.framework  = 'UIKit'
   spec.dependency 'RxSwift', '6.6.0'
+  spec.dependency 'RxCocoa', '6.6.0'
 end
